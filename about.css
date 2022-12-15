@@ -1,0 +1,27 @@
+.fixed-top{
+    background-image: linear-gradient(to right,#de6262, #ffb88c);
+}
+
+.color{color:white!important;}
+.color{color: white!important;}
+.color:hover{color:rgb(14,171,243)!important;}
+.footer{
+    background-image: linear-gradient(to right,#de6262, #ffb88c);
+    border-top-left-radius: 125px;
+}
+.col-md-3{
+    font-size: 13px;
+    line-height: 20px;
+    width: 85%;
+    margin:auto;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.text-warning{
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+}

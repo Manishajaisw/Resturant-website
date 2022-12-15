@@ -1,0 +1,15 @@
+.space{
+    padding-left: 50px;
+    padding-right: 60px;
+}
+.fixed-top{
+    background-image: linear-gradient(to right,#de6262, #ffb88c);
+}
+
+.color{color:white!important;}
+.color{color: white!important;}
+.color:hover{color:rgb(14,171,243)!important;}
+.footer{
+    background-image: linear-gradient(to right,#de6262, #ffb88c);
+    border-top-left-radius: 125px;
+}

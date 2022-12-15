@@ -1,0 +1,24 @@
+.gallery{
+    
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(219, 13, 13);
+}
+.gallery:hover{
+    transform:scale(1.1);
+    color: brown;
+
+}
+.fixed-top{
+  background-image: linear-gradient(to right,#de6262, #ffb88c);
+}
+
+
+.color{color:white!important;}
+.color{color: white!important;}
+.color:hover{color:rgb(14,171,243)!important;}
+
+.footer{
+  background-image: linear-gradient(to right,#de6262, #ffb88c);
+  border-top-left-radius: 125px;
+}
